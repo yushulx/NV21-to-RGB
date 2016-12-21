@@ -36,6 +36,10 @@ File file = new File("2048x1536.yuv"); // The input NV21 file
 * [YUV][2]
 * [BMP file format][3]
 
+## Blog
+[How to Convert NV21 Data to BMP File in Java][4]
+
 [1]:https://msdn.microsoft.com/en-us/library/windows/desktop/dd183376(v=vs.85).aspx
 [2]:https://en.wikipedia.org/wiki/YUV
 [3]:https://en.wikipedia.org/wiki/BMP_file_format
+[4]:http://www.codepool.biz/nv21-bmp-java.html
