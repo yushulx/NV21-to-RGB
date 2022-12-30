@@ -42,4 +42,4 @@ File file = new File("2048x1536.yuv"); // The input NV21 file
 [1]:https://msdn.microsoft.com/en-us/library/windows/desktop/dd183376(v=vs.85).aspx
 [2]:https://en.wikipedia.org/wiki/YUV
 [3]:https://en.wikipedia.org/wiki/BMP_file_format
-[4]:http://www.codepool.biz/nv21-bmp-java.html
+[4]:https://www.dynamsoft.com/codepool/nv21-bmp-java.html
